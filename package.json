@@ -1,0 +1,20 @@
+{
+  "name": "kitchen-vibes",
+  "version": "1.0.0",
+  "description": "Music Bot for Zeekz",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "DevNoah",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.3.2",
+    "common-tags": "^1.8.0",
+    "discord-player": "^2.3.1",
+    "discord.js": "^12.3.1",
+    "discord.js-menu": "^1.0.3",
+    "node-opus": "^0.3.3",
+    "opusscript": "0.0.7"
+  }
+}
