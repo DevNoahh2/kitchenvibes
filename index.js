@@ -1,3 +1,6 @@
+// Code Copyritten: DevNoahh. All Rights Reserved
+//Do Not Distribute
+
 const Discord = require('discord.js')
 const fs = require('fs')
 const os = require('os')
